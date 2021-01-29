@@ -2,7 +2,7 @@
 #### Introduction
 - Working as a web frontend engineer for 2 years, and I mainly use React, Redux, Material UI, etc. 🤔
 - I'm recently interested in WebGL, so I want make time for studying it. 😂
-- Occatiolnaly joining Kaggle: https://www.kaggle.com/yokotani 😪
+- Occasionally joining Kaggle: https://www.kaggle.com/yokotani 😪
 
 #### Stats
 <a href="https://github.com/yokotani92">
