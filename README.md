@@ -9,7 +9,7 @@
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=yokotani92&theme=jolly&show_icons=true)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
 <a href="https://github.com/yokotani92">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yokotani92&theme=jolly&layout=compact" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yokotani92&theme=jolly" />
 </a>
 
 #### My recommended repository
