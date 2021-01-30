@@ -1,7 +1,7 @@
 ### Hi there I'm Yokotani 👋
 #### Introduction
 - Working as a front-end web developer from Dec. 2019, and I love React, Redux, and Material UI. 😎
-- I'm recently interested in WebGL, so I want make time for studying it. 😂
+- I'm recently interested in WebGL, so I want to make time for studying it. 😂
 - Occasionally joining Kaggle: https://www.kaggle.com/yokotani 😪
 
 #### Stats
