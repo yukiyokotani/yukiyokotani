@@ -1,17 +1,2 @@
-### Hi there I'm Yokotani 👋
-#### Introduction
-- Working as a front-end web developer from Dec. 2019. I love React, Redux, and Material UI. 😎
-- I'm recently interested in WebGL, so I want to make time for studying it. 😂
-- I used to join Kaggle competition: https://www.kaggle.com/yokotani 😪
-
 #### Stats
-<a href="https://github.com/yokotani92">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=yokotani92&theme=jolly&show_icons=true)](https://github.com/anuraghazra/github-readme-stats" />
-</a>
-<a href="https://github.com/yokotani92">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yokotani92&theme=jolly" />
-</a>
-
-#### My recommended repository
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yokotani92&repo=my-app&theme=jolly)](https://github.com/yokotani92/my-app)
+[![yokotani's wakatime stats](https://github-readme-stats.vercel.app/api?username=yokotani92&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
